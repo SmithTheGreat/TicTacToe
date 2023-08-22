@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class MyClass {
+public class TicTacToe {
     public static void main(String args[]) {
         boolean isGameRunning = true;
       char[][] gameBoard = {{'1', '|', '2', '|', '3'},
