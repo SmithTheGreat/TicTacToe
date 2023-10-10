@@ -14,8 +14,6 @@ public class TicTacToe {
      System.out.println("Enter your move X(1-9) and O(11-19) and 20 to end the game:");
      int p = scan.nextInt();
      
-     System.out.println(p);
-     
      switch(p) {
          case 1:
              gameBoard[0][0] = 'X';
